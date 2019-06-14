@@ -1,3 +1,4 @@
 user1 read commit
 user1 read dev commit
 user1 read dev commit
+user2 read dev commit2
